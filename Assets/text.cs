@@ -1,6 +1,6 @@
 using UnityEngine;
 using TMPro;
-using UnityEditor.EditorTools;
+
 public class text : MonoBehaviour
 {
     public GameObject texthatmakesfunofyou;
